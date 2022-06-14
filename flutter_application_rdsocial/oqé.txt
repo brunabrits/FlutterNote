@@ -1,0 +1,1 @@
+È uma rede social, como formato parecido com o do Instagram, em azul com login (sem banco) e tela inicial.
